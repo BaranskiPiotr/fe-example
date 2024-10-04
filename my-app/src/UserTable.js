@@ -11,15 +11,19 @@ const UserTable = ({ users, onUserClick }) => {
             <th>Last Name</th>
             <th>Date of Birth</th>
             <th>Gender</th>
+            <th>Actions</th>
           </tr>
         </thead>
         <tbody>
           {users.map(user => (
-            <tr key={user.id} onClick={() => onUserClick(user)}>
-              <td>{user.firstName}</td>
-              <td>{user.lastName}</td>
-              <td>{user.dob}</td>
-              <td>{user.gender}</td>
+            <tr key={user.id}>
+              <td onClick={() => onUserClick(user)}>{user.firstName}</td>
+              <td onClick={() => onUserClick(user)}>{user.lastName}</td>
+              <td onClick={() => onUserClick(user)}>{user.dob}</td>
+              <td onClick={() => onUserClick(user)}>{user.gender}</td>
+              <td>
+                <button onClick={() => {}}>Edit</button>
+              </td>
             </tr>
           ))}
         </tbody>
