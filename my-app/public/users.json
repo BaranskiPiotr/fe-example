@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "dob": "1990-04-23",
+    "gender": "Male",
+    "email": "john.doe@example.com",
+    "address": "123 Elm Street",
+    "phone": "+123456789"
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "dob": "1985-12-12",
+    "gender": "Female",
+    "email": "jane.smith@example.com",
+    "address": "456 Oak Avenue",
+    "phone": "+987654321"
+  },
+  {
+    "id": 3,
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "dob": "1978-07-15",
+    "gender": "Male",
+    "email": "michael.brown@example.com",
+    "address": "789 Pine Lane",
+    "phone": "+123987654"
+  },
+  {
+    "id": 4,
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "dob": "1992-03-05",
+    "gender": "Female",
+    "email": "emily.davis@example.com",
+    "address": "101 Maple Road",
+    "phone": "+123654789"
+  },
+  {
+    "id": 5,
+    "firstName": "Chris",
+    "lastName": "Johnson",
+    "dob": "1983-11-20",
+    "gender": "Male",
+    "email": "chris.johnson@example.com",
+    "address": "202 Birch Street",
+    "phone": "+123321654"
+  },
+  {
+    "id": 6,
+    "firstName": "Sophia",
+    "lastName": "Williams",
+    "dob": "1995-08-30",
+    "gender": "Female",
+    "email": "sophia.williams@example.com",
+    "address": "303 Cedar Court",
+    "phone": "+123852963"
+  },
+  {
+    "id": 7,
+    "firstName": "David",
+    "lastName": "Wilson",
+    "dob": "1988-09-18",
+    "gender": "Male",
+    "email": "david.wilson@example.com",
+    "address": "404 Aspen Boulevard",
+    "phone": "+321654987"
+  },
+  {
+    "id": 8,
+    "firstName": "Olivia",
+    "lastName": "Martinez",
+    "dob": "1991-06-25",
+    "gender": "Female",
+    "email": "olivia.martinez@example.com",
+    "address": "505 Willow Avenue",
+    "phone": "+654987321"
+  },
+  {
+    "id": 9,
+    "firstName": "James",
+    "lastName": "Anderson",
+    "dob": "1980-12-02",
+    "gender": "Male",
+    "email": "james.anderson@example.com",
+    "address": "606 Cypress Way",
+    "phone": "+789654123"
+  },
+  {
+    "id": 10,
+    "firstName": "Isabella",
+    "lastName": "Taylor",
+    "dob": "1993-04-10",
+    "gender": "Female",
+    "email": "isabella.taylor@example.com",
+    "address": "707 Fir Drive",
+    "phone": "+963258741"
+  }
+]
